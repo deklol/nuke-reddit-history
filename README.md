@@ -10,19 +10,15 @@ You must delete your comments and submitted posts page by page. You cannot do it
 
 **For Chrome:**
 
-```html
 1. Open Google Chrome.
-2. Visit the [Greasemonkey extension page](https://chrome.google.com/webstore/detail/greasemonkey/fiabci...).
+2. Visit the [Greasemonkey extension page](https://chrome.google.com/webstore/detail/greasemonkey/).
 3. Click on the "Add to Chrome" button to install Greasemonkey.
-```
 
 **For Firefox:**
 
-```html
 1. Open Mozilla Firefox.
 2. Visit the [Greasemonkey add-on page](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 3. Click on the "Add to Firefox" button to install Greasemonkey.
-```
 
 ### Method 2: Manual Installation
 

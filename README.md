@@ -2,6 +2,8 @@
 
 Reddit Profile Cleaner is a Greasemonkey user script that allows you to easily delete all comments and submitted posts on your Reddit profile page. This README provides instructions for installing the script, whether you're using Chrome or Firefox, and how to manually install the script.
 
+You must delete your comments and submitted posts page by page. You cannot do it all at once.
+
 ## Installation
 
 ### Method 1: Installing Greasemonkey
@@ -56,12 +58,11 @@ You can quickly install the script by downloading and installing the `reddit-pro
 
 Once the script is installed, visit your Reddit profile page (e.g., `https://www.reddit.com/user/username/`). You will find two buttons within the `<div class="titlebox">` on the page: "Delete All Comments" and "Delete All Posts." Clicking these buttons will allow you to delete all comments or submitted posts on your profile page.
 
-Please use this script responsibly and be aware that all data deleted using this script is irreversible. Make sure to back up any content you want to keep before running the script.
+Be aware that all data deleted using this script is irreversible.
+Make sure to back up any content you want to keep before running the script.
 
 ## Contributing
 
 If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on this GitHub repository.
 
 ---
-
-Enjoy using Reddit Profile Cleaner to manage your Reddit profile more effectively!

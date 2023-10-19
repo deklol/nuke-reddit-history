@@ -1,6 +1,3 @@
-I apologize for the formatting issue. Here's the complete README content in a single code block for easy copy and paste:
-
-```markdown
 # Reddit Profile Cleaner
 
 Reddit Profile Cleaner is a Greasemonkey user script that allows you to easily delete all comments and submitted posts on your Reddit profile page. This README provides instructions for installing the script, whether you're using Chrome or Firefox, and how to manually install the script.
@@ -68,4 +65,3 @@ If you encounter any issues or have suggestions for improvements, please open an
 ---
 
 Enjoy using Reddit Profile Cleaner to manage your Reddit profile more effectively!
-```
